@@ -42,8 +42,9 @@ class Services {
   static Future save_record(BuildContext context, name, email, country) async {
     showLoadingDialog(context);
 
+    //this endpoint below is for test, add your owm pipedream endpoint here
     String url = Uri.encodeFull(
-        "https://a4b2180d68709437f526216fa9962bbb.m.pipedream.net");
+        "https://a4b2180d68709437f526216fa9962bb.m.pipedream.net");
 
     var body = json.encode({'name': name, 'email': email, 'country': country});
 
