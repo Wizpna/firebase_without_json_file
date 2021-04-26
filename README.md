@@ -1,16 +1,17 @@
 # firebase_without_json_file
 
-A new Flutter application.
+This is a simple project that will help you learn how to stire data to Firebase without adding google-services.json file in your Flutter project.
 
-## Getting Started
+You can read an article about this project, which is on medium: https://promise-amadi.medium.com/easiest-steps-on-how-to-save-data-to-firebase-without-adding-google-services-json-c69ea0dad6e8
 
-This project is a starting point for a Flutter application.
+<h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://miro.medium.com/max/1250/1*afD9usrVhghHcMP1gjO7vw.png"  title="firebase_without_json_file">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Contact - Let's become friends
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
+
